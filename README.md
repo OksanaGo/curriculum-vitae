@@ -8,9 +8,11 @@
 * 2007-2011 Bachelor degree in chemistry manufacturing automation Igor Sikorsky Kyiv Polytechnic Institute 
 * 2011-2012 Specialist degree in chemistry manufacturing automation Igor Sikorsky Kyiv Polytechnic Institute 
 ### Skills:
-#### Programing languages:
-* JavaScript (react, redux, es6, babel, gulp, webpack, linting), html, css (sass), gulp, XML, JSON, Drupal, MySQL, CouchDB, Firebase.
-* Action Script 2.0, Action Script 3.0 (Scaleform, Flare3D, Box2D, nape)
+#### Programing:
+* JavaScript (react, redux, es6), HTML (including jade/pug), CSS (SCSS, etc).
+* Have experience with: Node, Travis, Jenkins, Babel, Gulp, Webpack, linting, Cypress, Drupal, Gulp.
+* Databases experience: Firebase, CouchDB, MySQL, MongoDB (including Atlas).
+* Other platforms: Action Script 2.0, Action Script 3.0 (Scaleform, Flare3D, Box2D, nape).
 #### Tools & software:
 * Adobe Creative Suite (Photoshop, Animate, Illustrator, Premiere Pro)
 * Git, SVN, Perforce, Confluence, Jira, Redmine, Asana
