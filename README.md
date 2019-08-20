@@ -10,7 +10,7 @@
 * 2011-2012 Specialist degree in chemistry manufacturing automation Igor Sikorsky Kyiv Polytechnic Institute 
 ## Skills:
 ### Programing:
-* JavaScript (react, redux, es6), HTML, CSS (+ preprocessors) - 2+ years of comercial usage. (Also had non-commercial experience in NodeJS for pet-projects)
+* JavaScript (react, redux, es6), HTML, CSS (+ preprocessors) - 2+ years of commercial usage. (Also had non-commercial experience in NodeJS for pet-projects)
 * CI/CD experience: Jenkins, Travis *
 * Bundling: Webpack, Gulp, Rollup*
 * Testing: Jest + Enzyme, Cypress*
