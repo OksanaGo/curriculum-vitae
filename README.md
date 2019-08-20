@@ -11,9 +11,9 @@
 ## Skills:
 ### Programing:
 * JavaScript (react, redux, es6), HTML, CSS (+ preprocessors) - 2+ years of commercial usage. (Also had non-commercial experience in NodeJS for pet-projects)
-* CI/CD experience: Jenkins, Travis *
-* Bundling: Webpack, Gulp, Rollup*
-* Testing: Jest + Enzyme, Cypress*
+* CI/CD experience: Jenkins, Travis
+* Bundling: Webpack, Gulp, Rollup
+* Testing: Jest + Enzyme, Cypress
 * Databases experience: Firebase, CouchDB, MongoDB (including Mongo DB Atlas).
 * Other platforms: Action Script 2.0, Action Script 3.0 (Scaleform, Flare3D, Box2D, nape).
 ### Tools & software:
